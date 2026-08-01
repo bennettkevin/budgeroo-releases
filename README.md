@@ -1,6 +1,6 @@
-# Budgeroo Releases
+# BudgeRoo Releases
 
-Download page and built installers for [Budgeroo](https://github.com/bennettkevin/budgeroo-platform) — a personal budgeting app with Windows/Mac/Linux desktop clients.
+Download page and built installers for [BudgeRoo](https://github.com/bennettkevin/budgeroo-platform) — a personal budgeting app with Windows/Mac/Linux desktop clients.
 
 ## Download
 
